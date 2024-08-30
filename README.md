@@ -7,4 +7,4 @@ This is a simple ATM Machine application built using Python. The application sim
 - 💰 **Check Balance**: View the current balance in your account.
 - 🏧 **Withdraw Money**: Withdraw a specified amount of money from your account, with checks to prevent overdrafts.
 - 💵 **Deposit Money**: Deposit money into your account and update the balance accordingly.
-- 🔐 **User Authentication**: Basic login system to access the ATM functionalities.
+
